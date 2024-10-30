@@ -1,0 +1,55 @@
+name: John Doe
+id: 12345
+
+scores:
+  project:
+    score: 88
+    submitted_at: "2024-04-15T14:30:00Z"
+
+  quizzes:
+    quiz1:
+      score: 90
+      submitted_at: "2024-02-01T10:15:00Z"
+    quiz2:
+      score: 85
+      submitted_at: "2024-02-15T11:00:00Z"
+    quiz3:
+      score: 92
+      submitted_at: "2024-03-01T09:45:00Z"
+    quiz4:
+      score: 88
+      submitted_at: "2024-03-15T10:30:00Z"
+    quiz5:
+      score: 95
+      submitted_at: "2024-04-01T14:00:00Z"
+    quiz6:
+      score: 87
+      submitted_at: "2024-04-15T13:45:00Z"
+
+  homework:
+    homework1:
+      score: 95
+      submitted_at: "2024-02-10T23:59:00Z"
+    homework2:
+      score: 88
+      submitted_at: "2024-03-12T01:30:00Z"
+    homework3:
+      score: 92
+      submitted_at: "2024-04-11T22:45:00Z"
+
+  reflections:
+    reflection1:
+      score: 90
+      submitted_at: "2024-02-05T18:30:00Z"
+    reflection2:
+      score: 85
+      submitted_at: "2024-02-20T19:15:00Z"
+    reflection3:
+      score: 95
+      submitted_at: "2024-03-05T20:00:00Z"
+    reflection4:
+      score: 88
+      submitted_at: "2024-03-20T17:45:00Z"
+    reflection5:
+      score: 92
+      submitted_at: "2024-04-05T21:30:00Z"
